@@ -17,6 +17,6 @@ cd ~/.claude/skills/latexgo && npm install
 Restart Claude Code, then:
 
 ```
-/latexgo 导出二维离散傅里叶变换公式
+/latexgo render the 2D discrete Fourier transform
 ```
 
