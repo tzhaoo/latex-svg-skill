@@ -14,4 +14,9 @@ cp -r latexgo-skill ~/.claude/skills/latexgo
 cd ~/.claude/skills/latexgo && npm install
 ```
 
-Restart Claude Code, then `/latexgo E=mc^2` renders to `formula.svg`.
+Restart Claude Code, then:
+
+```
+/latexgo 导出二维离散傅里叶变换公式
+```
+
