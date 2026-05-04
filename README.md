@@ -1,8 +1,13 @@
-# latexgo-skill
+# 🎨 latexgo-skill
 
 Render LaTeX formulas to SVG via Claude Code `/latexgo`.
 
-## Install
+## 📋 Prerequisites
+
+- [Claude Code](https://claude.ai/code)
+- Node.js 22+
+
+## 📦 Install
 
 ```bash
 cp -r latexgo-skill ~/.claude/skills/latexgo
