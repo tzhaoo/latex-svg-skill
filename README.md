@@ -19,5 +19,5 @@ Restart Claude Code, then:
 ```
 /latexgo render the 2D discrete Fourier transform
 ```
-
-<img src="https://raw.githubusercontent.com/tzhaoo/latexgo-skill/main/example.svg" width="400" alt="2D DFT example" />
+You should see an SVG file in the current directory.
+<p align="center"><img src="https://raw.githubusercontent.com/tzhaoo/latexgo-skill/main/example.svg" width="400" alt="2D DFT example" /></p>
