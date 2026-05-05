@@ -1,6 +1,5 @@
 # 🎨 latex-svg-skill
-
-Render LaTeX formulas to SVG via Claude Code `/latex-svg` — no heavy LaTeX environment needed. Uses MathJax to render formulas and saves the SVG to the current directory.
+Export dedicated LaTeX formulas as SVG for Office,Google Docs or other non-LaTeX applications. No TeX distribution needed. Just `/latex-svg`. Uses MathJax to render formulas and saves the SVG to the current directory.
 
 ## 📋 Prerequisites
 
