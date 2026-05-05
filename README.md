@@ -4,7 +4,7 @@ Render LaTeX formulas to SVG via Claude Code `/latexgo` — no heavy LaTeX envir
 
 ## 📋 Prerequisites
 
-- [Claude Code](https://claude.ai/code)
+- [Claude Code](https://claude.com/product/claude-code)
 - [Node.js](https://nodejs.org/en/download) 22+
 
 ## 📦 Install
@@ -18,9 +18,9 @@ cd ~/.claude/skills/latexgo && npm install
 
 **Windows**
 
-```cmd
-git clone https://github.com/tzhaoo/latexgo-skill.git %USERPROFILE%\.claude\skills\latexgo
-cd %USERPROFILE%\.claude\skills\latexgo && npm install
+```pwsh
+git clone https://github.com/tzhaoo/latexgo-skill.git $env:USERPROFILE\.claude\skills\latexgo
+cd $env:USERPROFILE\.claude\skills\latexgo; npm install
 ```
 
 Restart Claude Code, then:
