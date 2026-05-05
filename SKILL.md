@@ -1,5 +1,5 @@
 ---
-name: latexgo
+name: latex-svg
 description: Render a LaTeX formula to an SVG file using MathJax
 ---
 
