@@ -9,7 +9,7 @@ Render LaTeX formulas to SVG via Claude Code `/latexgo` — no heavy LaTeX envir
 
 ## 📦 Install
 
-```
+```bash
 git clone https://github.com/tzhaoo/latexgo-skill.git ~/.claude/skills/latexgo
 cd ~/.claude/skills/latexgo && npm install
 ```
