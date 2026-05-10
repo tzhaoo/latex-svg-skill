@@ -11,14 +11,14 @@ Export dedicated LaTeX formulas as SVG for Office,Google Docs or other non-LaTeX
 **macOS / Linux**
 
 ```bash
-git clone https://github.com/tzhaoo/latex-svg-skill.git ~/.claude/skills/latex-svg
+git clone https://github.com/Oneptica/latex-svg-skill.git ~/.claude/skills/latex-svg
 cd ~/.claude/skills/latex-svg && npm install
 ```
 
 **Windows**
 
 ```pwsh
-git clone https://github.com/tzhaoo/latex-svg-skill.git $env:USERPROFILE\.claude\skills\latex-svg
+git clone https://github.com/Oneptica/latex-svg-skill.git $env:USERPROFILE\.claude\skills\latex-svg
 cd $env:USERPROFILE\.claude\skills\latex-svg; npm install
 ```
 
@@ -28,4 +28,4 @@ Restart Claude Code, then:
 /latex-svg render the 2D discrete Fourier transform
 ```
 You should see an SVG file in the current directory.
-<p align="center"><img src="https://raw.githubusercontent.com/tzhaoo/latex-svg-skill/main/example.svg" width="400" alt="2D DFT example" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Oneptica/latex-svg-skill/main/example.svg" width="400" alt="2D DFT example" /></p>
